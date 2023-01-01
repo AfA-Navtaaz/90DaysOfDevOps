@@ -1,2 +1,12 @@
-DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
-These are the articles which I refered to,
+The word DevOps is a combination of the terms development and operations, meant to represent a collaborative or shared approach to the tasks performed by a company's application development and IT operations teams.
+
+In its broadest meaning, DevOps is a philosophy that promotes better communication and collaboration between these teams -- and others -- in an organization. In its most narrow interpretation, DevOps describes the adoption of iterative software development, automation, and programmable infrastructure deployment and maintenance. DevOps can change the software delivery chain, services, job roles, IT tools and best practices.
+
+While DevOps is not a technology, DevOps environments generally apply common methodologies. These include the following:
+
+Continuous Integration and Continuous Delivery or Continuous Deployment (CI/CD) tools, with an emphasis on task automation;
+Systems and tools that support DevOps adoption, including real-time monitoring, incident management, configuration management and collaboration platforms;
+Cloud computing, microservices and containers implemented concurrently with DevOps methodologies.
+A DevOps approach is one of many techniques IT staff use to execute IT projects that meet business needs. DevOps can coexist with Agile software development; 
+
+Some IT professionals believe that the simple combination of Dev and Ops is not enough, and the term DevOps should explicitly include business (BizDevOps), security (DevSecOps) or other areas.
